@@ -1,0 +1,14 @@
+--module-path 'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\build\\classes\\java\\main;C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\build\\resources\\main;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-fxml\\20\\ffe142ec469d48e31b7076bbf19612494be11d6a\\javafx-fxml-20-win.jar;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\20\\f9a84d43adab2745f4999e7ff9a64f12dd563f1f\\javafx-controls-20-win.jar;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\20\\9d8d07b9b3463121fd600861473a8ad2ddf727dc\\javafx-controls-20.jar;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\20\\57d79e5dbc28f3873f1911bff0f704a77596165f\\javafx-graphics-20-win.jar;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\20\\7ec67be002e516ab69d1a14f3edbde01fc921664\\javafx-graphics-20.jar;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\20\\b75c1d2a661fc392bc601fcbb1d1931f8d4c637e\\javafx-base-20-win.jar;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\20\\82863562a321abc761f301477ef90ba6c20f022a\\javafx-base-20.jar;C:\\Users\\miche\\.gradle\\caches\\modules-2\\files-2.1\\org.controlsfx\\controlsfx\\11.1.2\\584bc3f468e2c33100fcdbb1daf0a3e095e5e031\\controlsfx-11.1.2.jar'
+-d 'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\build\\docs\\javadoc'
+-doctitle 'Client 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'Client 1.0-SNAPSHOT API'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\app\\Alerts.java'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\app\\CaricaDaFile.java'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\app\\CaricaDati.java'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\app\\ChoiceScene.java'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\app\\ConnectionScene.java'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\app\\Main.java'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\app\\QueryClass.java'
+'C:\\Users\\miche\\OneDrive\\Desktop\\K-MEANS\\Client\\src\\main\\java\\module-info.java'
