@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"app","l":"Alerts"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"app","l":"CaricaDaFile"},{"p":"app","l":"CaricaDati"},{"p":"app","l":"ChoiceScene"},{"p":"app","l":"ConnectionScene"},{"p":"app","l":"Main"},{"p":"app","l":"QueryClass"}];updateSearchResults();
